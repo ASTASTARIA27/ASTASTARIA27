@@ -42,7 +42,7 @@ I specialize in building bridges between hardware and software—from register-l
 
 ---
 
-📫 **How to reach me:** [[Your LinkedIn Link Here](https://www.linkedin.com/in/vamsi-kiran-mekala-57135424a/)] | [vamsikiran167@gmail.com]
+📫 **How to reach me:** [(https://www.linkedin.com/in/vamsi-kiran-mekala-57135424a/)] | [vamsikiran167@gmail.com]
 <!--
 **ASTASTARIA27/ASTASTARIA27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
