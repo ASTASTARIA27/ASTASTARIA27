@@ -28,9 +28,10 @@ I specialize in building bridges between hardware and software—from register-l
 * Leveraged Semaphores and Queues for Inter-Process Communication (IPC) and resource synchronization.
 
 ### 📁 [Embedded Systems - Micro-Projects](https://github.com/ASTASTARIA27/EMBEDDED-small-projects)
-**C Logic | Bitwise Operations | Algorithms**
-* A collection of fundamental embedded challenges, including bit-reversal algorithms, custom memory allocators, and hardware logic simulations.
-
+**Bare-Metal C | Register Mapping | Timers & ADC**
+* ZX-8080 MCU Simulation:** Wrote firmware based on a technical datasheet to manage ADC thermal sensors and hardware timers.
+* Clock Management:** Implemented prescaler (PSC) and auto-reload (ARR) logic to derive human-readable timing from an 80MHz system clock.
+* Efficient Mapping:** Utilized C **Bit-Fields** and structures to map directly to hardware addresses for type-safe register access.
 ---
 
 ## 🧰 Technical Toolbox
