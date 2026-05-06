@@ -37,7 +37,7 @@ I specialize in building bridges between hardware and software—from register-l
 ## 🧰 Technical Toolbox
 * **Languages:** C (C11/C17), C++ (Qt 6), Python, Bash
 * **Protocols:** I2C, SPI, UART, MQTT, SSL/TLS
-* **Tools:** CMake, Make, GDB, Git, Linux (Debian/Ubuntu), VNC
+* **Tools:** CMake, Make, GDB, Git, Linux (Debian/Ubuntu), VNC, Renode
 * **Hardware:** Raspberry Pi 4, ADXL345, DS3231 RTC, STM32 (Learning)
 
 ---
