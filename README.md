@@ -1,5 +1,5 @@
-## Hi there !👋
-### Aspiring Firmware & Embedded Systems Engineer 🚀
+## Hi there !
+### Aspiring Firmware & Embedded Systems Engineer 
 I specialize in building bridges between hardware and software—from register-level driver development to secure cloud-integrated IoT dashboards. Currently focusing on real-time systems and low-level optimization.
 ---
 
